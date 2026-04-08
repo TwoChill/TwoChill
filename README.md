@@ -1,4 +1,4 @@
-# Hey, I'm Michael de France (TwoChill) 👋
+# Hey, I'm TwoChill 👋
 
 Self-taught hobby developer from Amsterdam. I build things when an idea is strong enough to demand it — automation tools, OSINT utilities, crypto trackers, AI workflows, the occasional text RPG.
 

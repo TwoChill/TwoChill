@@ -26,6 +26,7 @@ Right now I'm deep into AI agents, sub-agents, and what becomes possible when yo
 
 | Repo | What it does |
 |---|---|
+| [NameDecoder](https://github.com/TwoChill/NameDecoder) | Desktop app that decodes your name through Pythagorean numerology and plays a video reading |
 | [validation-agent](https://github.com/TwoChill/validation-agent) | Claude Code hook: static analysis + Claude API auto-fix after every edit |
 | [Ethereum_Transaction_Tracker](https://github.com/TwoChill/Ethereum_Transaction_Tracker) | Real-time Ethereum transaction tracking |
 | [Img_2_Text](https://github.com/TwoChill/Img_2_Text) | Telegram bot that extracts text from images via OCR |

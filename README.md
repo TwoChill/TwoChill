@@ -16,21 +16,22 @@ Op dit moment ben ik diep bezig met AI-agents, sub-agents, en wat er mogelijk wo
 - **Claude Code workflows** — het onder de knie krijgen als build-tool, niet alleen als code-assistent
 - **Shadowcast** — autonome social media agent: stemmingsbewust posten, Discord-goedkeuringslaag, volledig geheugenloop
 - **zzp-brain** — privé Obsidian-kenniswiki voor Nederlands belasting- en ZZP-recht, gebouwd met Claude Code
-- **AI agent-architecturen** — persoonlijke assistenten, geautomatiseerde pipelines, agentische OSINT
-- **RotDR** — mijn tekst-RPG die ik ooit zal afmaken. Binnenkort™.
+- **osint-tool** *(privé)* — modulaire OSINT-engine: domeinanalyse, persoonsprofiling, geautomatiseerde rapportage. Verschijnt op Gumroad.
+- **Rise of the Dragon Rider** — mijn tekst-RPG die ik ooit zal afmaken. Binnenkort™.
 
 ---
 
 ## Projecten
 | Repo | Wat het doet |
 |---|---|
-| [NameDecoder](https://github.com/TwoChill/NameDecoder) | Desktop-app die je naam decodeert via Pythagorische numerologie en een videolezing afspeelt |
+| [Rise of the Dragon Rider](https://github.com/TwoChill/rise-of-the-dragon-rider) | Tekst-RPG *(in ontwikkeling)* |
+| [jokers-wild](https://github.com/TwoChill/jokers-wild) | 5-card draw pokerspel voor de Rise of the Dragon Rider RPG-wereld |
+| [name-decoder](https://github.com/TwoChill/name-decoder) | Desktop-app die je naam decodeert via Pythagorische numerologie en een videolezing afspeelt |
 | [validation-agent](https://github.com/TwoChill/validation-agent) | Claude Code hook: statische analyse + Claude API auto-fix na elke bewerking |
-| [Ethereum_Transaction_Tracker](https://github.com/TwoChill/Ethereum_Transaction_Tracker) | Realtime Ethereum-transactievolging |
-| [Img_2_Text](https://github.com/TwoChill/Img_2_Text) | Telegram-bot die tekst uit afbeeldingen haalt via OCR |
-| [CandleStickPattern_Quiz](https://github.com/TwoChill/CandleStickPattern_Quiz) | Interactieve quiz voor het leren van candlestick-patronen |
-| [FlashCards](https://github.com/TwoChill/FlashCards) | CLI-flashcardsysteem voor spaced repetition leren |
-| [RotDR](https://github.com/TwoChill/RotDR) | Tekst-RPG — Rise of the Dragon Rider *(in ontwikkeling)* |
+| [ethereum-transaction-tracker](https://github.com/TwoChill/ethereum-transaction-tracker) | Realtime Ethereum-transactievolging |
+| [candlestick-pattern-quiz](https://github.com/TwoChill/candlestick-pattern-quiz) | Interactieve quiz voor het leren van candlestick-patronen |
+| [flashcards](https://github.com/TwoChill/flashcards) | CLI-flashcardsysteem voor spaced repetition leren |
+| [message-converter](https://github.com/TwoChill/message-converter) | Berichten versleutelen met het ISH-cijfer |
 
 ---
 
